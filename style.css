@@ -1,0 +1,13 @@
+@keyframes empty{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.2);
+        border-color: brown;
+    }
+}
+
+.empty{
+    animation: empty .4s 2 alternate;
+}

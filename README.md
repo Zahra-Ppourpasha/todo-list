@@ -1,8 +1,8 @@
 # To Do List
 
-A responsive To Do List application built with HTML, CSS, JavaScript and Bootstrap.
+A responsive To-Do List application built with HTML, CSS, JavaScript, and Bootstrap.
 
-Users can add tasks and save them using Local Storage, so tasks remain after refreshing the page.
+Users can add and delete tasks, save them using Local Storage so tasks remain after refreshing the page, and add new tasks by pressing the Enter key.
 
 ## Features
 
